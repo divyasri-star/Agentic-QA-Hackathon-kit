@@ -42,10 +42,11 @@ Backend Health -
 http://localhost:8000/health
 
 Test Results
-Total Tests Executed: 23
-Passed: 21
+Total Tests Executed: 27
+Passed: 25
 Failed: 2
-Pass Rate: 91.3%
+Defects found: 2
+Pass Rate: 92.59%
 
 Modules Tested
 Authentication
