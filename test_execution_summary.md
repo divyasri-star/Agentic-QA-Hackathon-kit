@@ -16,3 +16,6 @@ Profile
 Defects Found :
 BUG-001
 BUG-002
+
+
+The core functionality of the application works correctly. Two validation defects were indentified in transfer processing.
