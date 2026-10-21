@@ -69,8 +69,4 @@ bug_report.md
 test_execution_summary.md
 
 Walkthrough Video :
-Paste your Google Drive video link here after upload.
-
-Example:
-
-https://drive.google.com/xxxxx
+https://www.loom.com/share/75d5544c9615425782dd282f598060ac
